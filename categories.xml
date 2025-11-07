@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<categories>
+    <category>
+        <id>1</id>
+        <name>Suplementos Proteicos</name>
+    </category>
+    <category>
+        <id>2</id>
+        <name>Aminoácidos y BCAAs</name>
+    </category>
+    <category>
+        <id>3</id>
+        <name>Quemadores de Grasa</name>
+    </category>
+    <category>
+        <id>4</id>
+        <name>Barras y Snacks Saludables</name>
+    </category>
+    <category>
+        <id>5</id>
+        <name>Equipamiento Cardiovascular</name>
+    </category>
+    <category>
+        <id>6</id>
+        <name>Accesorios de Levantamiento</name>
+    </category>
+    <category>
+        <id>7</id>
+        <name>Ropa Deportiva</name>
+    </category>
+</categories>
