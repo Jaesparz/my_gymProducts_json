@@ -1,0 +1,50 @@
+[
+    {
+        "transactionId": "T001",
+        "date": "2025-10-01",
+        "productId": 1,
+        "productName": "Proteína Whey Ultra"
+    },
+    {
+        "transactionId": "T002",
+        "date": "2025-10-01",
+        "productId": 3,
+        "productName": "Guantes de Levantamiento Pro"
+    },
+    {
+        "transactionId": "T003",
+        "date": "2025-10-02",
+        "productId": 1,
+        "productName": "Proteína Whey Ultra"
+    },
+    {
+        "transactionId": "T004",
+        "date": "2025-10-02",
+        "productId": 4,
+        "productName": "Creatina Monohidratada"
+    },
+    {
+        "transactionId": "T005",
+        "date": "2025-10-03",
+        "productId": 1,
+        "productName": "Proteína Whey Ultra"
+    },
+    {
+        "transactionId": "T006",
+        "date": "2025-10-03",
+        "productId": 3,
+        "productName": "Guantes de Levantamiento Pro"
+    },
+    {
+        "transactionId": "T007",
+        "date": "2025-10-04",
+        "productId": 2,
+        "productName": "Cinta de Correr Plegable"
+    },
+    {
+        "transactionId": "T008",
+        "date": "2025-10-04",
+        "productId": 4,
+        "productName": "Creatina Monohidratada"
+    }
+]
