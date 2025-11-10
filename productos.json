@@ -1,0 +1,6 @@
+[
+    {"id": 1, "name": "Laptop Pro", "price": 1200, "stock": 15, "img": "https://dummyimage.com/200x150/000/fff&text=LAPTOP"},
+    {"id": 2, "name": "Monitor Curvo", "price": 350, "stock": 22, "img": "https://dummyimage.com/200x150/333/fff&text=MONITOR"},
+    {"id": 3, "name": "Teclado Mecánico", "price": 95, "stock": 40, "img": "https://dummyimage.com/200x150/666/fff&text=TECLADO"},
+    {"id": 4, "name": "Mouse Inalámbrico", "price": 45, "stock": 60, "img": "https://dummyimage.com/200x150/999/fff&text=MOUSE"}
+]
