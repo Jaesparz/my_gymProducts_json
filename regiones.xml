@@ -1,0 +1,18 @@
+<regions>
+    <region>
+        <name>Norte</name>
+        <employees>15</employees>
+    </region>
+    <region>
+        <name>Sur</name>
+        <employees>12</employees>
+    </region>
+    <region>
+        <name>Este</name>
+        <employees>8</employees>
+    </region>
+    <region>
+        <name>Oeste</name>
+        <employees>10</employees>
+    </region>
+</regions>
