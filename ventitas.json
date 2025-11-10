@@ -1,0 +1,8 @@
+[
+    {"product_id": 1, "quantity": 1, "region": "Norte"},
+    {"product_id": 3, "quantity": 2, "region": "Sur"},
+    {"product_id": 1, "quantity": 1, "region": "Norte"},
+    {"product_id": 2, "quantity": 3, "region": "Este"},
+    {"product_id": 4, "quantity": 5, "region": "Oeste"},
+    {"product_id": 3, "quantity": 1, "region": "Sur"}
+]
