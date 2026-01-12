@@ -1,0 +1,6 @@
+[
+  { "id": "S1", "nombre": "Sensor de Temperatura", "valor": 24.5, "estado": "Activo" },
+  { "id": "S2", "nombre": "Sensor de Humedad", "valor": 60.2, "estado": "Inactivo" },
+  { "id": "S3", "nombre": "Presión Atmosférica", "valor": 1013, "estado": "Activo" },
+  { "id": "S4", "nombre": "Nivel de CO2", "valor": 400, "estado": "Activo" }
+]
